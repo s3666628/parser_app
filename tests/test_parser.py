@@ -10,7 +10,4 @@ def test_parser():
     assert result[0][0]== "192-168-1-126"
 
 
-# message = test_parser()
-
-
 test_parser()
