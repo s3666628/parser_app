@@ -12,9 +12,5 @@ def test_parser():
 
 # message = test_parser()
 
-# print(message)
-
-
-# # print((message[0][0]))
 
 test_parser()
